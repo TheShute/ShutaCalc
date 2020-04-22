@@ -1,0 +1,10 @@
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\bin\Debug\UNIT 6.exe.config
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\obj\Debug\UNIT_6.Form1.resources
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\obj\Debug\UNIT_6.Resources.resources
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\obj\Debug\UNIT 6.vbproj.GenerateResource.Cache
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\bin\Debug\UNIT 6.exe
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\bin\Debug\UNIT 6.pdb
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\bin\Debug\UNIT 6.xml
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\obj\Debug\UNIT 6.exe
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\obj\Debug\UNIT 6.xml
+D:\!Level 3 Y2\Programming\Made Work\UNIT 6\UNIT 6\obj\Debug\UNIT 6.pdb
